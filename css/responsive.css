@@ -1,0 +1,468 @@
+/*large devices */
+
+@media (min-width: 1441px) and (max-width: 2560px) {
+    .banner-content {
+    text-align: center;
+    position: relative;
+    top: 300px;
+    color: white;
+}
+    #water_carousel {
+    width: 100%;
+    height: 325px;
+    position: relative;
+    clear: both;
+    overflow: hidden;
+    top: 500px;
+}
+    .container {
+    width: 1220px;
+}
+    .btn-advrt{
+        top: 400px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width:1440) {
+    .container {
+        width: 1220px;
+    }
+     .banner-content {
+    text-align: center;
+    position: relative;
+    top: 300px;
+    color: white;
+}
+    #water_carousel {
+    width: 100%;
+    height: 325px;
+    position: relative;
+    clear: both;
+    overflow: hidden;
+    top: 500px;
+}
+}
+@media (min-width: 1025px) and (max-width:1199px) {
+.blacktitle {
+    margin: 0 10px;
+    color: #a7a9ac;
+    font-size: 30px;
+    font-weight: bold;
+}
+}
+
+
+@media (min-width: 992px) and (max-width: 1024px) {
+    .navbar-toggle {
+        position: relative;
+        float: right;
+        margin-right: 15px;
+        padding: 8px 8px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        background-color: #e74c3c;
+        background-image: none;
+        border: 1px solid transparent;
+        border-radius: 0;
+    }
+
+    .navbar-toggle .icon-bar {
+        background-color: white;
+    }
+
+    .navbar-nav {
+        float: right;
+    }
+
+    .navbar {
+        background: rgba(0, 0, 0, .7);
+        padding: 0;
+    }
+
+    .navbar-brand img {
+        margin-top: -20px;
+        width: 65%;
+    }
+
+    .banner-content {
+        top: 105px;
+    }
+
+    #water_carousel {
+        top: 100px;
+    }
+
+    .blacktitle {
+        margin: 0 10px;
+        font-size: 24px;
+    }
+
+    #turn1 {
+        margin-left: 38%;
+    }
+
+    .btn-advrt {
+        top: 210px;
+    }
+
+    .footersocial {
+        margin-left: -30px;
+    }
+
+    .contactsocial span {
+        bottom: 30px;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-next {
+        left: 480px;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-prev {
+        right: 480px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Mobile Menu */
+
+    .navbar-toggle {
+        position: relative;
+        float: right;
+        margin-right: 15px;
+        padding: 8px 8px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        background-color: #e74c3c;
+        background-image: none;
+        border: 1px solid transparent;
+        border-radius: 0;
+    }
+
+    .navbar-toggle .icon-bar {
+        background-color: white;
+    }
+
+    .navbar-nav {
+        float: right;
+    }
+
+    .navbar {
+        background: rgba(0, 0, 0, .7);
+        padding: 0;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .titlewrapper li:first-child {
+        display: none;
+    }
+
+    .titlewrapper li:last-child {
+        display: none;
+    }
+
+    .btn-advrt {
+        top: 210px;
+    }
+
+    .titlewrapper {
+        padding: 0;
+    }
+
+    .itemtitle {
+        padding: 0;
+    }
+
+    .btn-item {
+        margin-bottom: 10px;
+    }
+
+    .navbar-brand img {
+        margin-top: -20px;
+        width: 65%;
+    }
+
+    #turn {
+        margin-left: 20%;
+    }
+
+    .contactinfo img {
+        padding: 50px;
+    }
+
+}
+
+/*small devices*/
+
+@media (min-width: 520px) and (max-width: 767px) {
+
+    /*Mobile Menu*/
+    .navbar-toggle {
+        position: relative;
+        float: right;
+        margin-right: 15px;
+        padding: 8px 8px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        background-color: #e74c3c;
+        background-image: none;
+        border: 1px solid transparent;
+        border-radius: 0;
+    }
+
+    .navbar-toggle .icon-bar {
+        background-color: white;
+    }
+
+    .navbar-nav {
+        float: right;
+    }
+
+    .navbar {
+        background: rgba(0, 0, 0, .7);
+        padding: 0;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .titlewrapper li:first-child {
+        display: none;
+    }
+
+    .titlewrapper li:last-child {
+        display: none;
+    }
+
+    .btn-advrt {
+        top: 210px;
+    }
+
+    .titlewrapper {
+        padding: 0;
+    }
+
+    .itemtitle {
+        padding: 0;
+    }
+
+    .btn-item {
+        margin-bottom: 10px;
+    }
+
+
+}
+
+/*Extra Small Devices*/
+@media (min-width: 320px) and (max-width: 519px) {
+    .navbar-toggle {
+        position: relative;
+        float: right;
+        margin-right: 15px;
+        padding: 8px 8px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        background-color: #3794ca;
+        background-image: none;
+        border: 1px solid transparent;
+        border-radius: 3px;
+    }
+
+    .navbar-toggle .icon-bar {
+        background-color: white;
+    }
+
+    .navbar-nav {
+        float: right;
+    }
+
+    .navbar {
+        background: rgba(0, 0, 0, .7);
+        padding: 0;
+    }
+
+    .eml-nav-wrapper {
+        padding: 0;
+    }
+
+    .navbar-brand img {
+        margin-top: -20px;
+        font-size: 28px;
+        font-weight: 600;
+        width: 60%;
+    }
+
+    .banner-title {
+        font-size: 24px;
+    }-20px
+    .titlewrapper {
+        padding: 0;
+    }
+
+    .itemtitle {
+        padding: 0;
+    }
+
+    .btn-item {
+        margin-bottom: 10px;
+    }
+
+    .btn-general {
+        padding: 5px 25px;
+    }
+
+    .iteminffo {
+        font-size: 13px;
+    }
+
+    .titlewrapper li:first-child {
+        display: none;
+    }
+
+    .titlewrapper li:last-child {
+        display: none;
+    }
+
+    .companies {
+        margin-top: 0;
+    }
+
+    .comp-box {
+        width: 100%
+    }
+
+    .blacktitle {
+
+        margin: 0 10px;
+        font-size: 24px;
+    }
+
+    .infopara {
+        font-size: 13px;
+    }
+
+    .btn-advrt {
+        top: 200px;
+    }
+
+    .contactsocial span {
+        font-size: 12px;
+        bottom: 30px;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+}
+
+@media (max-width: 319px) {
+    .navbar-toggle {
+        position: relative;
+        float: right;
+        margin-right: 15px;
+        padding: 8px 8px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        background-color: #3794ca;
+        background-image: none;
+        border: 1px solid transparent;
+        border-radius: 3px;
+    }
+
+    .navbar-toggle .icon-bar {
+        background-color: white;
+    }
+
+    .eml-nav-wrapper {
+        padding: 0;
+    }
+
+    .navbar-nav {
+        float: right;
+    }
+
+    .navbar {
+        background: rgba(0, 0, 0, .7);
+        padding: 0;
+    }
+
+    .titlewrapper {
+        padding: 0;
+    }
+
+    .itemtitle {
+        padding: 0;
+    }
+
+    .btn-item {
+        margin-bottom: 10px;
+    }
+
+    .btn-general {
+        padding: 5px 25px;
+    }
+
+    .iteminffo {
+        font-size: 13px;
+    }
+
+    .titlewrapper li:first-child {
+        display: none;
+    }
+
+    .companies {
+        margin-top: 0;
+    }
+
+    .comp-box {
+        width: 100%
+    }
+
+    .blacktitle {
+        margin: 0 10px;
+        font-size: 24px;
+    }
+
+    .titlewrapper li:last-child {
+        display: none;
+    }
+
+    .infopara {
+        font-size: 13px;
+    }
+
+    .btn-advrt {
+        top: 200px;
+    }
+
+    .contactsocial span {
+        font-size: 12px;
+        bottom: 30px;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    #sales .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+}
