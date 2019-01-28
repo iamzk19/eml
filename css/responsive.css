@@ -307,7 +307,7 @@
 
     .banner-title {
         font-size: 24px;
-    }-20px
+    }
     .titlewrapper {
         padding: 0;
     }
@@ -335,7 +335,9 @@
     .titlewrapper li:last-child {
         display: none;
     }
-
+.container {
+    width: 100%;
+}
     .companies {
         margin-top: 0;
     }
