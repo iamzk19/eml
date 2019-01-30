@@ -66,6 +66,27 @@
     color: #a7a9ac;
 }
     .container{width:100%;}
+    
+    #water_carousel {
+    position: absolute !important;
+    top: 45%;
+    }
+    .navbar-toggle{
+        background-color: #3794ca;
+    }
+    .navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+       background-color: #fff;
+}
+    .banner-content {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    color: white;
+}
 }
 
 
