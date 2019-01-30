@@ -24,7 +24,7 @@
     }
 }
 
-@media (min-width: 1200px) and (max-width:1440px) {
+@media (min-width: 1200px) and (max-width: 1440px) {
     .container {
         width: 1220px;
     }
@@ -44,7 +44,7 @@
    
 }
 }
-@media (min-width: 1025px) and (max-width:1199px) {
+@media (min-width: 1025px) and (max-width: 1199px) {
 .blacktitle {
     margin: 0 10px;
     color: #a7a9ac;
