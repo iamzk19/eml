@@ -51,6 +51,20 @@
     font-size: 30px;
     font-weight: bold;
 }
+   #sales .owl-carousel .owl-nav button.owl-prev {
+    position: absolute;
+    right: 98%;
+    bottom: 50%;
+    font-size: 50px;
+    color: #a7a9ac;
+}
+    #sales .owl-carousel .owl-nav button.owl-next {
+    position: absolute;
+    left: 98%;
+    bottom: 50%;
+    font-size: 50px;
+    color: #a7a9ac;
+}
 }
 
 
