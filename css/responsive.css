@@ -87,6 +87,11 @@
     top: 100px;
     color: white;
 }
+    #turn1{
+        position: absolute !important;
+    top: 100%;
+    left: 40%;
+}
 }
 
 
