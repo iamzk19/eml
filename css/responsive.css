@@ -4,7 +4,7 @@
     .banner-content {
     text-align: center;
     position: relative;
-    top: 300px;
+    top: 200px;
     color: white;
 }
     #water_carousel {
@@ -23,14 +23,14 @@
     }
 }
 
-@media (min-width: 1200px) and (max-width:1440) {
+@media (min-width: 1200px) and (max-width:1440px) {
     .container {
         width: 1220px;
     }
      .banner-content {
     text-align: center;
     position: relative;
-    top: 300px;
+    top: 140px;
     color: white;
 }
     #water_carousel {
